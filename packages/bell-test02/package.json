@@ -1,0 +1,29 @@
+{
+  "name": "bell-test02",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "bell <876662727@qq.com>",
+  "homepage": "https://github.com/litterbell/bell-test#readme",
+  "license": "ISC",
+  "main": "lib/bell-test02.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmmirror.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/litterbell/bell-test.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/bell-test02.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/litterbell/bell-test/issues"
+  }
+}
