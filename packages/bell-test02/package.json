@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmmirror.com"
+    "registry": "https://registry.npmjs.org/"
   },
   "repository": {
     "type": "git",
@@ -25,5 +25,6 @@
   },
   "bugs": {
     "url": "https://github.com/litterbell/bell-test/issues"
-  }
+  },
+  "gitHead": "1ae9c974670133284d876a801dde2cf45eeec721"
 }
